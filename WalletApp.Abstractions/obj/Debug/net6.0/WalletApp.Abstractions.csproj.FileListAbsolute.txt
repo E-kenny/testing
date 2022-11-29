@@ -1,0 +1,14 @@
+C:\Users\Decagon\source\repos\testing\WalletApp.Abstractions\bin\Debug\net6.0\WalletApp.Abstractions.deps.json
+C:\Users\Decagon\source\repos\testing\WalletApp.Abstractions\bin\Debug\net6.0\WalletApp.Abstractions.runtimeconfig.json
+C:\Users\Decagon\source\repos\testing\WalletApp.Abstractions\bin\Debug\net6.0\WalletApp.Abstractions.dll
+C:\Users\Decagon\source\repos\testing\WalletApp.Abstractions\bin\Debug\net6.0\WalletApp.Abstractions.pdb
+C:\Users\Decagon\source\repos\testing\WalletApp.Abstractions\obj\Debug\net6.0\WalletApp.Abstractions.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\testing\WalletApp.Abstractions\obj\Debug\net6.0\WalletApp.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\testing\WalletApp.Abstractions\obj\Debug\net6.0\WalletApp.Abstractions.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\testing\WalletApp.Abstractions\obj\Debug\net6.0\WalletApp.Abstractions.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\testing\WalletApp.Abstractions\obj\Debug\net6.0\WalletApp.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\testing\WalletApp.Abstractions\obj\Debug\net6.0\WalletApp.Abstractions.dll
+C:\Users\Decagon\source\repos\testing\WalletApp.Abstractions\obj\Debug\net6.0\refint\WalletApp.Abstractions.dll
+C:\Users\Decagon\source\repos\testing\WalletApp.Abstractions\obj\Debug\net6.0\WalletApp.Abstractions.pdb
+C:\Users\Decagon\source\repos\testing\WalletApp.Abstractions\obj\Debug\net6.0\WalletApp.Abstractions.genruntimeconfig.cache
+C:\Users\Decagon\source\repos\testing\WalletApp.Abstractions\obj\Debug\net6.0\ref\WalletApp.Abstractions.dll
