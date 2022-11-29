@@ -8,7 +8,7 @@ namespace WalletApp.Models.Entities
 {
     public enum Type
     {
-        A, B, C, D, F
+        Debit, Credit
     }
 
     public class Transaction
