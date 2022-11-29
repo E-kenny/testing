@@ -1,5 +1,4 @@
 # testing
-Ekene Obiasogu 1
 ==================================================
 
 ### Get all the latest code from the remote repository
