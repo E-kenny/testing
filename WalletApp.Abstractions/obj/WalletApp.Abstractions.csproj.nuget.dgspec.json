@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Decagon\\source\\repos\\testing\\WalletApp.Abstractions\\WalletApp.Abstractions.csproj": {}
+    "C:\\Users\\decag\\Desktop\\testing\\WalletApp.Abstractions\\WalletApp.Abstractions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Decagon\\source\\repos\\testing\\WalletApp.Abstractions\\WalletApp.Abstractions.csproj": {
+    "C:\\Users\\decag\\Desktop\\testing\\WalletApp.Abstractions\\WalletApp.Abstractions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Decagon\\source\\repos\\testing\\WalletApp.Abstractions\\WalletApp.Abstractions.csproj",
+        "projectUniqueName": "C:\\Users\\decag\\Desktop\\testing\\WalletApp.Abstractions\\WalletApp.Abstractions.csproj",
         "projectName": "WalletApp.Abstractions",
-        "projectPath": "C:\\Users\\Decagon\\source\\repos\\testing\\WalletApp.Abstractions\\WalletApp.Abstractions.csproj",
-        "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Decagon\\source\\repos\\testing\\WalletApp.Abstractions\\obj\\",
+        "projectPath": "C:\\Users\\decag\\Desktop\\testing\\WalletApp.Abstractions\\WalletApp.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\decag\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\decag\\Desktop\\testing\\WalletApp.Abstractions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Decagon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\decag\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -25,6 +25,7 @@
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -83,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

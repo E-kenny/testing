@@ -21,6 +21,9 @@ namespace WalletAppClone
             // For Entity Framework  
             builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("ConnStr")));
 
+            //Http Client for consuming OpenAPI currency converter
+            builder.Services.AddHttpClient();
+
 
             // For Identity  
             builder.Services.AddIdentity<User, IdentityRole>()
