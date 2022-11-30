@@ -12,3 +12,17 @@ C:\Users\Decagon\source\repos\testing\WalletApp.Models\obj\Debug\net6.0\refint\W
 C:\Users\Decagon\source\repos\testing\WalletApp.Models\obj\Debug\net6.0\WalletApp.Models.pdb
 C:\Users\Decagon\source\repos\testing\WalletApp.Models\obj\Debug\net6.0\WalletApp.Models.genruntimeconfig.cache
 C:\Users\Decagon\source\repos\testing\WalletApp.Models\obj\Debug\net6.0\ref\WalletApp.Models.dll
+C:\Users\decag\Desktop\testing\WalletApp.Models\bin\Debug\net6.0\WalletApp.Models.deps.json
+C:\Users\decag\Desktop\testing\WalletApp.Models\bin\Debug\net6.0\WalletApp.Models.runtimeconfig.json
+C:\Users\decag\Desktop\testing\WalletApp.Models\bin\Debug\net6.0\WalletApp.Models.dll
+C:\Users\decag\Desktop\testing\WalletApp.Models\bin\Debug\net6.0\WalletApp.Models.pdb
+C:\Users\decag\Desktop\testing\WalletApp.Models\obj\Debug\net6.0\WalletApp.Models.csproj.AssemblyReference.cache
+C:\Users\decag\Desktop\testing\WalletApp.Models\obj\Debug\net6.0\WalletApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decag\Desktop\testing\WalletApp.Models\obj\Debug\net6.0\WalletApp.Models.AssemblyInfoInputs.cache
+C:\Users\decag\Desktop\testing\WalletApp.Models\obj\Debug\net6.0\WalletApp.Models.AssemblyInfo.cs
+C:\Users\decag\Desktop\testing\WalletApp.Models\obj\Debug\net6.0\WalletApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\decag\Desktop\testing\WalletApp.Models\obj\Debug\net6.0\WalletApp.Models.dll
+C:\Users\decag\Desktop\testing\WalletApp.Models\obj\Debug\net6.0\refint\WalletApp.Models.dll
+C:\Users\decag\Desktop\testing\WalletApp.Models\obj\Debug\net6.0\WalletApp.Models.pdb
+C:\Users\decag\Desktop\testing\WalletApp.Models\obj\Debug\net6.0\WalletApp.Models.genruntimeconfig.cache
+C:\Users\decag\Desktop\testing\WalletApp.Models\obj\Debug\net6.0\ref\WalletApp.Models.dll
