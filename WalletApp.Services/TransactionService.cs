@@ -8,5 +8,6 @@ namespace WalletApp.Services
 {
     public class TransactionService
     {
+        
     }
 }
